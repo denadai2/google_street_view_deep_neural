@@ -65,4 +65,4 @@ target/
 .idea/
 caffe/places205CNN_finetune_snap_iter_10000.caffemodel_save
 generated_files/pytorch_model.pt
-generated_files/pytorch_model.npy
+generated_files/pytorch_state.npy
